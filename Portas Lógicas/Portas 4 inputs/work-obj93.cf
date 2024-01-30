@@ -1,0 +1,10 @@
+v 4
+file . "pl_or_4in.vhdl" "006127da3c5afa791f9a9dce0fbc8ccaa42ae814" "20230928122341.841":
+  entity pl_or_4in at 1( 0) + 0 on 15;
+  architecture comp of pl_or_4in at 11( 145) + 0 on 16;
+file . "pl_and_4in.vhdl" "18d4d3030feeb4baafd7eef9dcd451a680d902be" "20230928122341.841":
+  entity pl_and_4in at 1( 0) + 0 on 13;
+  architecture comp of pl_and_4in at 11( 146) + 0 on 14;
+file . "pl_4in_tb.vhdl" "e99ba8d831ed43baa02a34d2e1a9538c8ec167f1" "20230928122341.840":
+  entity pl_4in_tb at 1( 0) + 0 on 11;
+  architecture testbench of pl_4in_tb at 4( 33) + 0 on 12;

@@ -1,0 +1,10 @@
+v 4
+file . "pl_or_3in.vhdl" "78b5c5cedb7ca9a2c8898806f8ecae0bfd8104cd" "20230928120526.727":
+  entity pl_or_3in at 1( 0) + 0 on 15;
+  architecture comp of pl_or_3in at 9( 125) + 0 on 16;
+file . "pl_and_3in.vhdl" "d848941651693cc51701c548f5b3fe5cd293fb1f" "20230928120526.727":
+  entity pl_and_3in at 1( 0) + 0 on 13;
+  architecture comp of pl_and_3in at 9( 126) + 0 on 14;
+file . "pl_3in_tb.vhdl" "737a01644d86afa757b2d37bf8c0e2c63f284bdf" "20230928120526.726":
+  entity pl_3in_tb at 1( 0) + 0 on 11;
+  architecture testbench of pl_3in_tb at 4( 33) + 0 on 12;

@@ -1,0 +1,25 @@
+v 4
+file . "pl_nor.vhdl" "9344560860c17d138514862b6f95fc1f58457381" "20230928114801.988":
+  entity pl_nor at 1( 0) + 0 on 128;
+  architecture comp of pl_nor at 9( 104) + 0 on 129;
+file . "pl_nand.vhdl" "4d05a946814f195e4d0ef7eddc8c2e12061c0cbf" "20230928114801.987":
+  entity pl_nand at 5( 66) + 0 on 126;
+  architecture comp of pl_nand at 14( 204) + 0 on 127;
+file . "pl_2in_tb.vhdl" "3a94f0a158ac7f04b15d1da0758844459b6592b2" "20230928114801.986":
+  entity pl_2in_tb at 3( 36) + 0 on 122;
+  architecture testbench of pl_2in_tb at 7( 100) + 0 on 123;
+file . "pl_or_2tb.vhdl" "e037188579512cb74bcf93f3c543fbc138d2e488" "20230922200134.870":
+  entity pl_or_2tb at 3( 36) + 0 on 18;
+  architecture testbench of pl_or_2tb at 7( 100) + 0 on 19;
+file . "pl_or_2in.vhdl" "a602c2bb5304e752aa27354ca0a416131d82559a" "20230928114801.989":
+  entity pl_or_2in at 3( 30) + 0 on 130;
+  architecture comportamento of pl_or_2in at 11( 143) + 0 on 131;
+file . "pl_xor.vhdl" "dc291aa57f536a7f04eb2185acebc155caa46366" "20230928114801.990":
+  entity pl_xor at 1( 0) + 0 on 134;
+  architecture comportamento of pl_xor at 9( 110) + 0 on 135;
+file . "pl_and_2in.vhdl" "4dc037d7524d33e9d262de18b6b6c6c49d9d29fb" "20230928114801.987":
+  entity pl_and_2in at 1( 0) + 0 on 124;
+  architecture comp of pl_and_2in at 10( 141) + 0 on 125;
+file . "pl_xnor.vhdl" "ff34347a0448323251234a0eb502aa4c323feaf3" "20230928114801.989":
+  entity pl_xnor at 2( 29) + 0 on 132;
+  architecture comp of pl_xnor at 11( 167) + 0 on 133;
